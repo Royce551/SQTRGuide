@@ -1,0 +1,85 @@
+[
+  {
+    "ShortCode": "DT",
+    "Name": "Downtown Melanie City",
+    "Platforms": [
+      {
+        "Name": "Line 1",
+        "LeftName": "Westover <3",
+        "LeftDistance": 0,
+        "RightName": "Capitola",
+        "RightDistance": 0,
+        "Flags": []
+      }
+    ]
+  },
+  {
+    "ShortCode": "UFO",
+    "Name": "RMUFO",
+    "Platforms": [
+      {
+        "Name": "Auckland Branch Line",
+        "LeftName": "Auckland",
+        "LeftDistance": 0,
+        "RightName": "Spawn Memorial Transfer",
+        "RightDistance": 0,
+        "Flags": []
+      }
+    ]
+  },
+  {
+    "ShortCode": "WOVR",
+    "Name": "Westover <3",
+    "Platforms": [
+      {
+        "Name": "Line 1",
+        "LeftName": "Downtown Melanie City",
+        "LeftDistance": 0,
+        "RightName": "Bridgett's Port",
+        "RightDistance": 0,
+        "Flags": []
+      },
+      {
+        "Name": "Melanie City Loop",
+        "LeftName": null,
+        "LeftDistance": 0,
+        "RightName": "Doodly Island",
+        "RightDistance": 0,
+        "Flags": []
+      },
+      {
+        "Name": "Line X2",
+        "LeftName": "Lion Land",
+        "LeftDistance": 0,
+        "RightName": null,
+        "RightDistance": 0,
+        "Flags": []
+      },
+      {
+        "Name": "AirCS Platform 1",
+        "LeftName": "Long Island",
+        "LeftDistance": 0,
+        "RightName": null,
+        "RightDistance": 0,
+        "Flags": [ "AirCS" ]
+      },
+      {
+        "Name": "AirCS Platform 2",
+        "LeftName": "Quartercity",
+        "LeftDistance": 0,
+        "RightName": null,
+        "RightDistance": 0,
+        "Flags": [ "AirCS" ]
+      },
+      {
+        "Name": "Skyrail Melanie City Loop",
+        "LeftName": null,
+        "LeftDistance": 0,
+        "RightName": "Long Island",
+        "RightDistance": 0,
+        "Flags": [ "Skyrail" ]
+      }
+
+    ]
+  }
+]
